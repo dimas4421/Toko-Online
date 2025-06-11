@@ -16,20 +16,18 @@
 ### ✨ Fitur Unggulan:
 
 - Autentikasi pengguna
-- Dashboard admin untuk mengelola produk
-- Sistem kategori produk
-- Upload dan manajemen gambar produk
-- Tampilan katalog produk untuk pengunjung
-- Sistem pencarian dan filter produk
-- Responsive design untuk mobile & desktop
+- Dashboard User
+- Dashboard Data Produk
+- Dashboard laporan
 
 ### 🔧 Teknologi yang Digunakan:
 
 - Laravel (PHP Framework)
 - Blade Templating
-- Bootstrap / TailwindCSS (opsional)
+- Bootstrap / TailwindCSS 
 - MySQL / SQLite
-- Firebase (jika terintegrasi untuk media)
+- SweetAlert in laravel
+- CKEditor 
 
 ---
 
