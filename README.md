@@ -55,5 +55,5 @@ Proyek ini menggunakan lisensi open source [MIT License](https://opensource.org/
 
 ## 📧 Kontak Pengembang
 
-Jika kamu ingin berdiskusi atau melaporkan bug, silakan hubungi saya melalui email: **dimas4421@gmail.com**
+Jika kamu ingin berdiskusi atau melaporkan bug, silakan hubungi saya melalui email: **17230724@bsi.ac.id**
 
