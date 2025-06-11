@@ -40,16 +40,9 @@ Kamu bisa mempelajari Laravel lebih lanjut melalui:
 - [Laracasts Video Tutorials](https://laracasts.com)
 
 ---
+## 📚 ebout
+Repository ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web, sesuai instruksi dosen untuk mengunggah file ke GitHub. Saya adalah mahasiswa yang sedang mempelajari Web Programing 2
 
-## 🤝 Kontribusi
-
-Kontribusi sangat terbuka! Silakan fork repo ini, buat perubahanmu, dan kirimkan pull request.
-
----
-
-## 🔐 Lisensi
-
-Proyek ini menggunakan lisensi open source [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
