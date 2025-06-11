@@ -9,7 +9,7 @@
 
 ---
 
-## 🛒 Toko Online – Aplikasi Web Toko untuk UMKM
+## 🛒 Toko Online – Aplikasi Web Toko online
 
 **Toko Online** adalah sebuah aplikasi berbasis web yang dibangun menggunakan framework Laravel. Aplikasi ini ditujukan untuk mendukung pelaku UMKM dalam memasarkan produk mereka secara online dengan mudah dan efisien.
 
